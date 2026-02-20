@@ -1,13 +1,21 @@
 # Professional Software Projects GitHub Diary
 
-Name: Billy Roberts
-Student Number: c4053967
+**Name: Billy Roberts**
 
-Team: Elaros group 1
+**Student Number: c4053967**
 
-Members:
-Billy Roberts (myself)
-Asher Denno
-Jake Hallam
-El Holbrook
-Aidan Bennett
+**Team: Elaros group 1**
+
+**Members:**
+
+•	Billy Roberts (myself)
+
+•	Asher Denno
+
+•	Jake Hallam
+
+•	El Holbrook
+
+•	Aidan Bennett
+
+**Weekly Session: Friday 2pm - 5pm**
