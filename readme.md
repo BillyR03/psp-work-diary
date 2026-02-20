@@ -1,7 +1,13 @@
-# Professional Software Projects GitHub Diary Guidance
+# Professional Software Projects GitHub Diary
 
-This repo contains
+Name: Billy Roberts
+Student Number: c4053967
 
-- a guide to using GitHub for diary submissions.
-- a sample readme.md file page to create.
-- suggested weekly themes and structure for your diary.
+Team: Elaros group 1
+
+Members:
+Billy Roberts (myself)
+Asher Denno
+Jake Hallam
+El Holbrook
+Aidan Bennett
