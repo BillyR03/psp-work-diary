@@ -8,4 +8,6 @@ This was helpful as it gave us a chance as a group to reflect on how the week we
 
 We found as a group that we were sometimes lost with what to do or how to help out, so we are aiming for the next sprint, to make a plan for each day, rather than just the week overall. we decided to we will make more GitHub issues, but make them more specific, and have an action plan for each person each day. Everybody will have at least one issue that they are expected to finish in the day, and then there will be extra issues that are shorter and less important, for people to pick up as they finish others. This will make a more structured plan with a timeline and deadlines to adhere to which we think will help us to get more work done during the sprint.
 
+Something we missed in the first sprint week was any proper testing. Since we were developing from scratch, our prototype did not have many features and we did not have time for testing it. In the second sprint we aim to add test tasks, especially when most of the coding is done and extra features need to be implemented correctly.
+
 The other main takeaway from the retrospective was that we should set aside time each day to discuss ideas, so that everybody is on board with how much progress has been made, and understands the direction the project is heading in.
