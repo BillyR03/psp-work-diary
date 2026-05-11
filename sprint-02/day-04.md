@@ -1,0 +1,9 @@
+Day 3 had been less productive than most so on day 4 everybody continued work on what they were doing the previous day. Progress had slowed by this point and we began to tunnel vision too much on certain things rather than prioritising functionality.
+
+I worked on functions to make the app more useable, mainly working on transitions between pages and making specific information load automatically when switching to a page. For example, if the user presses the steps button on the homepage, they would be taken to the metrics page with the steps graph showing. I also created a date and time function which would allow users to see old data. I included a graph range function which allows the user to choose a graph which shows either daily, weekly or monthly data, and also allowed them to select the date to centre this around.
+
+Aiden began testing the app. He started with unit tests for individual functions to ensure they work properly. He then began integration testing between the front-end and back-end, as he had created and unit tested the functions to fetch data.
+
+Asher worked on functionality for the goals page, allowing users to add new goals and customise them and also relaying this data to the database to save them. Jake improved the homepage adding colours and styling and also worked on the various summary sections on the homepage. Our homepage displays the different metrics and an approximate "score" which highlights to the user which data is reported as stable and is potentially worrying. This was mainly for the heart rate and HRV and for this he would need to determine an error range that the data could be within without flagging anything.
+
+Towards the end of the day we collated all of what we had done to be ready for the client meeting. There were some merge conflicts on github which created some errors in the code so we had to revert some pushes and then fix the errors we still had.
